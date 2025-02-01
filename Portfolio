@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        h1{text-align: center; color: goldenrod; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+        h2{text-align: center;}
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PORTFOLIO</title>
+</head>
+<body>
+    <h1>MY PORTFOLIO</h1>
+        <p>I am Comfort Boamah Adu, a freshman Biomedical Engineering major in Kwame Nkrumah University of Science and Technology.</p>
+    <h2>BIOGRAPHY</h2>
+    <p> I have always been drawn to the intersection of Technology, Biology and Medicine. Even as a child, I loved figuring out how things worked. I became fascinated by something as small as a glucose monitor or an insulin pump could empower someone to live a fuller, healthier life.</p>
+    <p> Out of this curiosity, I pursued General Science in High School and I developed strong passion for the creation of technologies that make tangible differences in the lives of people.</p>
+    <p> I chose Biomedical Engineering because it perfectly merges my love for problem-solving with my desire to impact healthcare. The field's interdisciplinary nature with courses in areas like Biology, Medicine and Engineering excites me.</p>
+    <p> I want to pioneer devices that transform lives.</p>
+</body>
+</html>
